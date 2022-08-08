@@ -1,0 +1,37 @@
+button {
+  background-color: #0c80f3;
+  border: 6px solid #0ff166;
+  border-radius: 10px;
+}
+.body{
+  background-color: brown;
+}
+  .block {
+  background-color: rgb(219, 28, 28);
+  border: 6px solid green;
+  border-radius: 6px;
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 20em;
+} 
+button.color[data="X"]{
+  color:red
+}
+button.color[data="O"]{
+  color:white
+} 
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}  
+body {
+  background-color:brown;
+  font-weight: bolder;
+  text-align: center;     } 
+h3,h4{
+  border: 2px dotted white;    }
+img{
+  width:200px;
+  height: 200px;
+  padding:7px;
+}
